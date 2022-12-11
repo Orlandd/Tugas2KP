@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Soal D No 1
+
 struct node {
     int angka;
     struct node *next;
