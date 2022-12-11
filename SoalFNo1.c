@@ -2,6 +2,7 @@
 #include <signal.h>
 #include <unistd.h>
 
+// Soal F No 1
 
 void trigger(int x) {
     printf("SIGABRT\n");
