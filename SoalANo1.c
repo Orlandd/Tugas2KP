@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+//Soal A No 1 
+
 void main(){
 
     char merk[100];
