@@ -2,6 +2,8 @@
 #define MINIMUM2(a,b) (a < b ? a : b)
 #define MINIMUM3(a,b,c) MINIMUM2(MINIMUM2(a,b), c)
 
+// Soal E No 1
+
 int main(void) {
     int n1, n2, n3;
     int calc;
