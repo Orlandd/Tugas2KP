@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Soal D No 2
+
 int top = -1;
 int stack [50], front = 0;
 
