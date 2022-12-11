@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Soal F No 2
+
 void main() {
     int x;
     printf("Ukuran Array : ");
