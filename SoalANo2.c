@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+//Soal A No 2
+
 int main()
 {
     char str[100], word[100], twoD[10][30], *token, word2[1000];
