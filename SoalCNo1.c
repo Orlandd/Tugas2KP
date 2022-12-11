@@ -5,6 +5,8 @@
 #include <time.h>
 #include <windows.h>
 
+// Soal C No 1
+
 void menu();
 void tambahData();
 void tampilData();
