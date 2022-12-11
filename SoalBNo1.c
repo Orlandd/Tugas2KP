@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Soal B No 1
+
 void packCharacters(char krtr1, char krtr2);
 void biner(unsigned nilai);
 
